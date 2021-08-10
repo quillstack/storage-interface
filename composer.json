@@ -1,0 +1,23 @@
+{
+    "description": "Common interface for Storage classes.",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "interface",
+        "php8",
+        "storage",
+        "quillstack"
+    ],
+    "homepage": "https://quillstack.org/storage-interface",
+    "authors": [
+        {
+            "name": "Radek Ziemniewicz",
+            "email": "radek@quillstack.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Quillstack\\StorageInterface\\": "src/"
+        }
+    }
+}
