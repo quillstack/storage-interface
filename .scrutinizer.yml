@@ -1,4 +1,4 @@
-buil.d:
+build:
     environment:
         php:
             version: '8.0'
