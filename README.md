@@ -1,6 +1,6 @@
 # Quillstack Storage Interface
 
-[![Build Status](https://travis-ci.com/quillstack/storage-interface.svg?branch=main)](https://travis-ci.com/quillstack/storage-interface)
+[![Tests](https://github.com/quillstack/storage-interface/actions/workflows/tests.yml/badge.svg)](https://github.com/quillstack/storage-interface/actions/workflows/tests.yml)
 [![Downloads](https://img.shields.io/packagist/dt/quillstack/storage-interface.svg)](https://packagist.org/packages/quillstack/storage-interface)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=quillstack_storage-interface&metric=ncloc)](https://sonarcloud.io/dashboard?id=quillstack_storage-interface)
 [![StyleCI](https://github.styleci.io/repos/394759071/shield?branch=main)](https://github.styleci.io/repos/394759071?branch=main)
