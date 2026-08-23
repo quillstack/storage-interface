@@ -6,6 +6,11 @@
 [![PHP Version](https://img.shields.io/packagist/php-v/quillstack/storage-interface)](https://packagist.org/packages/quillstack/storage-interface)
 [![StyleCI](https://github.styleci.io/repos/394759071/shield?branch=main)](https://github.styleci.io/repos/394759071?branch=main)
 [![CodeFactor](https://www.codefactor.io/repository/github/quillstack/storage-interface/badge)](https://www.codefactor.io/repository/github/quillstack/storage-interface)
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=quillstack_storage-interface&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=quillstack_storage-interface)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=quillstack_storage-interface&metric=coverage)](https://sonarcloud.io/summary/new_code?id=quillstack_storage-interface)
+[![Maintainability](https://sonarcloud.io/api/project_badges/measure?project=quillstack_storage-interface&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=quillstack_storage-interface)
+[![Reliability](https://sonarcloud.io/api/project_badges/measure?project=quillstack_storage-interface&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=quillstack_storage-interface)
+[![Security](https://sonarcloud.io/api/project_badges/measure?project=quillstack_storage-interface&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=quillstack_storage-interface)
 [![Maintainability](https://api.codeclimate.com/v1/badges/33a9f4af9af94a9e3e1e/maintainability)](https://codeclimate.com/github/quillstack/storage-interface/maintainability)
 [![License](https://img.shields.io/packagist/l/quillstack/storage-interface)](https://github.com/quillstack/storage-interface/blob/main/LICENSE)
 
